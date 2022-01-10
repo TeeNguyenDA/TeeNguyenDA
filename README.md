@@ -1,4 +1,4 @@
-# Hi 👋 My name is Tee.
+## Hi 👋 My name is Tee.
 ##### For folks who've known me before, it's Thanh here 😊
 
 I'm a data analyst (with marketing background) dubbed 'a dream chaser'🦸 Adapting to changes and learning always is crucial to me 🍹 My personal jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 means a lot to me! Now I'm based in Toronto, CA.
@@ -13,4 +13,4 @@ I'm a data analyst (with marketing background) dubbed 'a dream chaser'🦸 Adapt
 ## Skills I've collected:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 
-<img align="left" width="100" height="100" src="https://tenor.com/view/nakanoart-nakanodrawing-cat-furry-anthro-gif-15574616">
+<div class="tenor-gif-embed" data-postid="15574616" data-share-method="host" data-aspect-ratio="1.21212" data-width="100%"><a href="https://tenor.com/view/nakanoart-nakanodrawing-cat-furry-anthro-gif-15574616">Nakanoart Nakanodrawing GIF</a>from <a href="https://tenor.com/search/nakanoart-gifs">Nakanoart GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
