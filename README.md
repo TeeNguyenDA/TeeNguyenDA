@@ -5,12 +5,12 @@ I'm a data analyst (with marketing background) dubbed 'a dream chaser'🦸 Adapt
 
 **I'm really passionate about data analytics, and determined to improve my technical skills in Python, SQL, data viz and statistics 💻 Best to apply those skills with the business side!**
 
-**I'm still looking for the next 'super' team in Data Analytics in North America 🧑‍🤝‍🧑Feel free to send me a DM on LinkedIn for collab. **
+**I'm still looking for the next 'super' team in Data Analytics in North America 🧑‍🤝‍🧑Feel free to send me a DM on LinkedIn for collab!**
 
 ## Connect with me:
-![My LinkedIn](https://www.linkedin.com/in/thanhnguyentn/ "Tee's LinkedIn")
+![My LinkedIn](https://www.linkedin.com/in/thanhnguyentn/)
 
 ## Skills I've collected:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /><img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 
-<img align="center" width="100" height="100" src="https://tenor.com/view/i-need-to-study-more-faster-cat-typing-gif-13922118">
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
