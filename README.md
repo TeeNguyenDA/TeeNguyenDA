@@ -1,11 +1,11 @@
 ## Hi 👋 My name is Tee
 ### For folks who've known me, it's Thanh here!
 
-I'm a data analyst (with marketing background) dubbed 'a dream chaser'🦸 Adapting to changes and always learning mean a lot to me 📚 I've made a long jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 in the past few years 🌍 Now I'm based in Toronto, Canada 🍁
+I'm a **data analyst** (with marketing background) dubbed 'a dream chaser'🦸 Adapting to changes and always learning mean a lot to me 📚 I've made a long jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 in the past few years 🌍 Now I'm based in Toronto, Canada 🍁
 
 I'm really passionate about data analytics, and determined to improve my technical skills in Python, SQL, data viz and statistics 💻 Best to apply those skills with the business side knowledge I've had!
 
-- 🔭 I’m currently working/learning on the Practicum by Yandex's DA professional training program. A few more months to become a pro!
+*🔭 I’m currently working/learning on the Practicum by Yandex's DA professional training program. A few more months to become a pro!*
 
 **I'm looking for the next 'super' team in Data Analytics in North America 🧑‍🤝‍🧑 Feel free to send me a DM on LinkedIn for collab opportunities!**
 
