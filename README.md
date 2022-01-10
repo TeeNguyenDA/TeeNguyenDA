@@ -1,4 +1,4 @@
-## Hi 👋 My name is Tee.
+## Hi 👋 My name is Tee
 ### For folks who've known me, it's Thanh here!
 
 I'm a data analyst (with marketing background) dubbed 'a dream chaser'🦸 Adapting to changes and always learning mean a lot to me 📚 I've made a long jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 in the past few years 🌍 Now I'm based in Toronto, Canada 🍁
