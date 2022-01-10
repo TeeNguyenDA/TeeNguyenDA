@@ -1,11 +1,15 @@
 ## Hi 👋 My name is Tee
 ### For folks who've known me, it's Thanh here!
 
+![Data Analyst Bootcamp - Practicum by Yandex Cover](https://disk.yandex.ru/d/RI22cW-l2Jzxaw/DA/Black%2C%20green%20triangle.png)
+
 I'm a data analyst (with marketing background) dubbed 'a dream chaser'🦸 Adapting to changes and always learning mean a lot to me 📚 I've made a long jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 in the past few years 🌍 Now I'm based in Toronto, Canada 🍁
 
 I'm really passionate about data analytics, and determined to improve my technical skills in Python, SQL, data viz and statistics 💻 Best to apply those skills with the business side knowledge I've had!
 
-**I'm still looking for the next 'super' team in Data Analytics in North America 🧑‍🤝‍🧑 Feel free to send me a DM on LinkedIn for collab opportunities!**
+- 🔭 I’m currently working/learning on the Practicum by Yandex's DA professional training program. A few more months to become a pro!
+
+**I'm looking for the next 'super' team in Data Analytics in North America 🧑‍🤝‍🧑 Feel free to send me a DM on LinkedIn for collab opportunities!**
 
 ## Connect with me:
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanhnguyentn)
@@ -15,3 +19,18 @@ I'm really passionate about data analytics, and determined to improve my technic
 
 
 <img align="left" width="100" height="100" src="https://c.tenor.com/yp_aFUgHMx8AAAAd/nakanoart-nakanodrawing.gif">
+
+<!--
+**TeeNguyenDA/TeeNguyenDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
