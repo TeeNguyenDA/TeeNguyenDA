@@ -7,7 +7,7 @@ I'm really passionate about data analytics, and determined to improve my technic
 
 *🔭 I’m currently working/learning on the Practicum by Yandex's DA professional training program. A few more months to become a pro!*
 
-**I'm looking for the next 'super' team in Data Analytics in North America 🧑‍🤝‍🧑 Please send me a DM on LinkedIn for any opportunity you may have!**
+**I'm looking for the next 'super' team in Data Analytics in North America to call home🧑‍🤝‍🧑 Please send me a DM on LinkedIn for any opportunity you may have!**
 
 ## Connect with me:
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanhnguyentn)
