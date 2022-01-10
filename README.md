@@ -5,7 +5,7 @@ I'm a data analyst (with marketing background) dubbed 'a dream chaser'🦸 Adapt
 
 I'm really passionate about data analytics, and determined to improve my technical skills in Python, SQL, data viz and statistics 💻 Best to apply those skills with the business side knowledge I've had!
 
-***I'm still looking for the next 'super' team in Data Analytics in North America 🧑‍🤝‍🧑 Feel free to send me a DM on LinkedIn for collab opportunities***
+**I'm still looking for the next 'super' team in Data Analytics in North America 🧑‍🤝‍🧑 Feel free to send me a DM on LinkedIn for collab opportunities**
 
 ## Connect with me:
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanhnguyentn)
