@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋 My name is Tee.
+###### For folks who've known me before, it's Thanh here 😊
 
-<!--
-**TeeNguyenDA/TeeNguyenDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst (with marketing background) dubbed 'a dream chaser'🦸 Adapting to changes and learning always is crucial to me 🍹 My personal jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 means a lot to me! Now I'm based in Toronto, CA.
 
-Here are some ideas to get you started:
+**I'm really passionate about data analytics, and determined to improve my technical skills in Python, SQL, data viz and statistics 💻 Best to apply those skills with the business side!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm still looking for the next 'super' team in Data Analytics in North America 🧑‍🤝‍🧑Feel free to send me a DM on LinkedIn for collab. **
+
+## Connect with me:
+![My LinkedIn](https://www.linkedin.com/in/thanhnguyentn/ "Tee's LinkedIn")
+
+## Skills I've collected:
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+
+<p align="center">
+  <img width="460" height="300" src="https://tenor.com/view/i-need-to-study-more-faster-cat-typing-gif-13922118">
+</p>
