@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Tee
 ### For folks who've known me, it's Thanh here!
 
-![Data Analyst Bootcamp - Practicum by Yandex Cover](https://disk.yandex.ru/d/RI22cW-l2Jzxaw/DA/Black%2C%20green%20triangle.png)
+![Data Analyst Bootcamp - Practicum by Yandex Cover](https://s565man.storage.yandex.net/rdisk/d3a5ec0818ffd43e95f5a4b91d4e3394700730dc3e6c4690289ba00be00dd556/61dce44c/PV6A63pCc2vjUzQmSy_XoHuE53KLX-5hfFV5FVZOPo3sSkQX9kwnTYwapUw-Uofap2sPvvJovLxyaqSfifAV3w==?uid=0&filename=Black%2C%20green%20triangle.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=109174&hid=13d035fc79a44a9c5dabf56b9624a6b3&media_type=image&tknv=v2&etag=6c69a14ccbfee9df0438e800c8690554&rtoken=u6JzxQlmcDFX&force_default=no&ycrid=na-6204179284e382af46b30626817c2dce-downloader17h&ts=5d544ca88ab00&s=606d48ec136ac6abe16d8a7f98962647cc2ea84c4dfabce90e4c94216408910b&pb=U2FsdGVkX18RGBP0SzRavglAk-QyEFXnb3mBTeBvTrJ2Sq1i7s9KewAZp6TZ3wmRfDUUdHazCyUXVDPaxEOAC6WXvufz96-BtHKd6uQEKJE)
 
 I'm a data analyst (with marketing background) dubbed 'a dream chaser'🦸 Adapting to changes and always learning mean a lot to me 📚 I've made a long jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 in the past few years 🌍 Now I'm based in Toronto, Canada 🍁
 
