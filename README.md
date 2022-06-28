@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Tee
 ### For friends who've known me, it's Thanh here!
 
-I'm a **data analyst** (with marketing and HR background) dubbed 'a dream chaser'🦸 Adapting to changes and always learning mean a lot to me 📚 I've made a long jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 in the past few years 🌍 Now I'm based in Toronto, Canada 🍁
+I'm a **data analyst** (with marketing and HR Performance Management experiences) dubbed 'a dream chaser'🦸 Adapting to changes and always learning mean a lot to me 📚 I've made a long jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 in the past few years 🌍 Now I'm based in Toronto, Canada 🍁
 
 I'm really passionate about data analytics, and determined to improve my technical skills in Python, SQL, data viz and statistics 💻 Best to apply those skills with the business side knowledge I've had!
 
