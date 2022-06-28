@@ -1,13 +1,13 @@
 ## Hi 👋 My name is Tee
-### For folks who've known me, it's Thanh here!
+### For friends who've known me, it's Thanh here!
 
-I'm a **data analyst** (with marketing background) dubbed 'a dream chaser'🦸 Adapting to changes and always learning mean a lot to me 📚 I've made a long jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 in the past few years 🌍 Now I'm based in Toronto, Canada 🍁
+I'm a **data analyst** (with marketing and HR background) dubbed 'a dream chaser'🦸 Adapting to changes and always learning mean a lot to me 📚 I've made a long jouney from 🇻🇳 - 🇵🇭 - 🇨🇦 in the past few years 🌍 Now I'm based in Toronto, Canada 🍁
 
 I'm really passionate about data analytics, and determined to improve my technical skills in Python, SQL, data viz and statistics 💻 Best to apply those skills with the business side knowledge I've had!
 
-*🔭 I’m currently working/learning on the Practicum by Yandex's DA professional training program. A few more months to become a pro!*
+*🔭 I've finished courses in Statistics, Python, SQL, Data Organization at Ryerson University. I’m also working on the Practicum by Yandex's DA professional training program.*
 
-**I'm also looking for the next 'super' team in Data Analytics in North America to call home 🧑‍🤝‍🧑 Please send me a DM on LinkedIn for any opportunity you may have!**
+**I'm also looking for an internship/associate position in Data Analytics in North America 🧑‍🤝‍🧑 Please send me a DM on LinkedIn for any opportunity you may have!**
 
 ## Connect with me:
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanhnguyentn)
